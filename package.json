@@ -1,5 +1,5 @@
 {
-  "name": "@johnhaup/react-native-config",
+  "name": "@johnhaup/react-native-lint-config",
   "version": "1.0.0",
   "description": "React Native lint configuration.",
   "main": "index.js",
