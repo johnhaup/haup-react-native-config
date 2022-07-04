@@ -1,1 +1,1 @@
-# haup-react-native-config
+# react-native-lint-config
