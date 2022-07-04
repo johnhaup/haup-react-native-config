@@ -1,0 +1,44 @@
+{
+  "name": "@johnhaup/react-native-config",
+  "version": "1.0.0",
+  "description": "React Native lint configuration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnhaup/haup-react-native-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "prettier",
+    "react native"
+  ],
+  "author": "John Haupenthal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnhaup/haup-react-native-config/issues"
+  },
+  "homepage": "https://github.com/johnhaup/haup-react-native-config#readme",
+  "peerDependencies": {
+    "eslint": "^8.19.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.30.1",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "prettier": "^2.7.1",
+    "prettier-plugin-organize-imports": "^3.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.19.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.30.1",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "prettier": "^2.7.1",
+    "prettier-plugin-organize-imports": "^3.0.0"
+  }
+}
